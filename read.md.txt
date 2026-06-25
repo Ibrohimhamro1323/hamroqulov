@@ -1,0 +1,14 @@
+# SportMart
+
+Sport oziq-ovqatlari do'koni uchun yaratilgan landing page loyihasi.
+
+## Xususiyatlari
+- Katalog tizimi
+- Savatga qo'shish funksiyasi
+- Kaloriyani hisoblash kalkulyatori
+- Responsive dizayn
+
+## Texnologiyalar
+- HTML5
+- CSS3 (Flexbox, Grid)
+- JavaScript
